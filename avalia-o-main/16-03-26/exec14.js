@@ -1,0 +1,1 @@
+//  crie um pograma que verique se o numero é impar ou par, usando operador ternário.

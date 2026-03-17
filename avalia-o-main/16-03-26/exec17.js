@@ -1,0 +1,1 @@
+//crie um programa com uma condicional composta para avaliar o deempenho escolar entre "excelemte", "otimo", "bom", "regular" ou "ruim". dependendo da nota
